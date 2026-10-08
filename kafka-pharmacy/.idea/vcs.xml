@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-08/QuanLySanPham_KhoHang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-08/QuanLySinhVien_LopvaDiemSo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-08/TinhToanDienTichHCNvaTimDienTichLonNhat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-08/TyLeQuyDoiTienTe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-09/PhuongThucXuLyRectangle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-09/QuanLyNhieuDoiTuong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-09/StudentManagement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-10/Quan_Ly_May_Tinh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-10/Quan_Ly_Phuong_Tien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-10/Vehicle_Management_System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Java/session-10/Zoo_Management" vcs="Git" />
+  </component>
+</project>
