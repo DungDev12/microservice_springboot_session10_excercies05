@@ -5,6 +5,7 @@ spring:
     producer:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
-
+    template:
+        default-topic: medicine-stock-events
 server:
   port: 8081

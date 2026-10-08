@@ -18,9 +18,8 @@ public class OrderEventProducer {
 
         String key = event.getOrderId().toString();
 
-        kafkaTemplate.send(
-                TOPIC,
-                key,
+        kafkaTemplate.sendDefault(
+                event.getMedicineId().toString(),
                 event
         ).whenComplete((result, exception) -> {
 

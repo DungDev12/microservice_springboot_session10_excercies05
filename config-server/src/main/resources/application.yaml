@@ -5,4 +5,9 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: https://github.com/DungDev12/microservice_springboot_session10_excercies05
+          default-label: main
+          search-paths:
+            - medical-config-repo
+server:
+  port: 8888
